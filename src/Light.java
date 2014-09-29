@@ -12,6 +12,11 @@ public class Light {
 	seconds = days * 24 * 60 * 60;
 	distance = lightspeed * seconds;
 	
+	
+	
+	
+	
+	
 	System.out.println("In "+days+" days light will run "+distance+" miles");
 	}
 }
